@@ -6,6 +6,7 @@ want to end up.
 
 **My self-study roadmap:**
 NPTEL (IIT Kharagpur) → CompTIA Security+ → eJPT/PNPT → OSCP
+
 Practicing on TryHackMe, PicoCTF, and HackTheBox as I go.
 
 **Right now:**
