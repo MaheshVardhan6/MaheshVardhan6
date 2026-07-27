@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Mahesh 👋
 
-<!--
-**MaheshVardhan6/MaheshVardhan6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BTech AI/ML student at NIAT, India. Cybersecurity isn't part of my degree — 
+I'm learning it on my own time because ethical hacking is where I actually 
+want to end up.
 
-Here are some ideas to get you started:
+**My self-study roadmap:**
+NPTEL (IIT Kharagpur) → CompTIA Security+ → eJPT/PNPT → OSCP
+Practicing on TryHackMe, PicoCTF, and HackTheBox as I go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Right now:**
+- In college: working through NIAT's AI/ML coursework
+- On my own: networking basics and Linux fundamentals on TryHackMe
+
+**Coming up:**
+- NPTEL cybersecurity certification
+- CompTIA Security+
+- Deeper CTF practice on HackTheBox
+- Eventually: eJPT/PNPT, then OSCP
+
+Projects and writeups will show up here as I build them.
+
+📍 Narasaraopet, Andhra Pradesh, India
